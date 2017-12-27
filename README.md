@@ -36,7 +36,7 @@ Codebase Contributors
 ----------
 
 - [Luis F. Chiroque](https://github.com/luisfo)
-- [Demetris Trihinas] (https://github.com/dtrihinas)
+- [Demetris Trihinas](https://github.com/dtrihinas)
 
 License and Disclaimer
 ----------
