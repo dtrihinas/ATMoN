@@ -45,8 +45,9 @@ The framework is open-sourced under the Apache 2.0 License base. The codebase of
 Reference
 ---------
 When using the framework please use the following reference to cite our work:
-TBD
 
+D. Trihinas, L. F. Chiroque, G. Pallis, A. Fernandez Anta and M. D. Dikaiakos, "ATMoN: Adapting the "Temporality" in Large-Scale Dynamic Networks," 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS), Vienna, Austria, 2018, pp. 400-410.
+doi:10.1109/ICDCS.2018.00047
 
 Data
 -------
